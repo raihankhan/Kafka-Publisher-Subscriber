@@ -1,0 +1,4 @@
+# github.com/confluentinc/confluent-kafka-go/v2 v2.0.2
+## explicit; go 1.14
+github.com/confluentinc/confluent-kafka-go/v2/kafka
+github.com/confluentinc/confluent-kafka-go/v2/kafka/librdkafka_vendor
